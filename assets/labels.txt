@@ -1,0 +1,15 @@
+cien_an
+a_neg
+doscientos_an
+veinte_an
+cinco_an
+uno_an
+diez_rev
+uno_rev
+veinte_rev
+cien_rev
+doscientos_rev
+cincuenta_an
+cincuenta_rev
+cinco_rev
+diez_an
